@@ -46,8 +46,8 @@ year | Name | PDF
 2019 | End-to-end Sleep Staging with Raw Single Channel EEG using Deep Residual ConvNets <br/> *IEEE EMBS International Conference on Biomedical & Health Informatics (BHI)*| [PDF](https://arxiv.org/pdf/1904.10255.pdf)  
 2020 | An Automatic Sleep Staging Method Using a Multi-head and Sequence Network <br/> *International Conference on Biological Information and Biomedical Engineering*| [PDF](https://dl.acm.org/doi/pdf/10.1145/3403782.3403797)  
 2020 | Intra- and inter-epoch temporal context network (IITNet) using sub-epoch features for automatic sleep scoring on raw single-channel EEG <br/> *Biomedical Signal Processing and Control*| [PDF](https://www.sciencedirect.com/science/article/pii/S1746809420301932)  
-2020 | An Automatic Sleep Staging Model Combining Feature Learning and Sequence Learning <br/> *International Conference on Advanced Computational Intelligence (ICACI)*| [PDF](https://ieeexplore.ieee.org/abstract/document/9177520)  
 2020 | TinySleepNet: An Efficient Deep Learning Model for Sleep Stage Scoring based on Raw Single-Channel EEG <br/> *International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)*| [PDF](https://ieeexplore.ieee.org/abstract/document/9176741)  
+2020 | Temporal dependency in automatic sleep scoring via deep learning based architectures: An empirical study <br/> *International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)*| [PDF](https://ieeexplore.ieee.org/abstract/document/9176356) 
 
 
 ## CNN with LSTM with attention
@@ -55,6 +55,8 @@ year | Name | PDF
 ------------ | ------------- | ------------ 
 2018 | Automatic Sleep Stage Classification Using Single-Channel EEG: Learning Sequential Features with Attention-Based Recurrent Neural Networks <br/> *IEEE Engineering in Medicine and Biology Society (EMBC)* | [PDF](https://ieeexplore.ieee.org/document/8512480)  
 2020 | XSleepNet: Multi-View Sequential Model for Automatic Sleep Staging <br/> *arxiv.org* | [PDF](https://arxiv.org/pdf/2007.05492.pdf)  
+2020 | An Automatic Sleep Staging Model Combining Feature Learning and Sequence Learning <br/> *International Conference on Advanced Computational Intelligence (ICACI)*| [PDF](https://ieeexplore.ieee.org/abstract/document/9177520)  
+
 
 
 
