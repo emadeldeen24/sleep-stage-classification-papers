@@ -63,7 +63,8 @@ year | Name | PDF
 ## Self-attention
 year | Name | PDF
 ------------ | ------------- | ------------ 
-2018 | Multivariate Sleep Stage Classification using Hybrid Self-Attentive Deep Learning Networks <br/> *IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*| [PDF](https://cse.buffalo.edu/~lusu/papers/BIBM2018.pdf)  
+2018 | Multivariate Sleep Stage Classification using Hybrid Self-Attentive Deep Learning Networks <br/> *IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*| [PDF](https://cse.buffalo.edu/~lusu/papers/BIBM2018.pdf)   
+2020 | Convolution- and Attention-Based Neural Network for Automated Sleep Stage Classification <br/> *INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH*| [PDF](https://www.mdpi.com/1660-4601/17/11/4152)  
 
 
 ## Transfer learning
@@ -98,5 +99,6 @@ year | Name | PDF
 ## Adversarial training
 year | Name | PDF
 ------------ | ------------- | ------------ 
-2018 | Learning Sleep Stages from Radio Signals: A Conditional Adversarial Architecture <br/> *International Conference on Machine Learning (ICML)*| [PDF](http://sleep.csail.mit.edu/files/rfsleep-paper.pdf)  
+2018 | Learning Sleep Stages from Radio Signals: A Conditional Adversarial Architecture <br/> *International Conference on Machine Learning (ICML)*| [PDF](http://sleep.csail.mit.edu/files/rfsleep-paper.pdf)    
+2020 | Attentive Adversarial Network for Large-Scale Sleep Staging <br/> *Machine Learning for Healthcare (MLHC)*| [PDF](http://proceedings.mlr.press/v126/nasiri20a/nasiri20a.pdf) 
 
