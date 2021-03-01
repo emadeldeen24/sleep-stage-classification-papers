@@ -35,6 +35,7 @@ year | Name | PDF
 2019 | An Image Based Prediction Model for Sleep Stage Identification <br/> *IEEE International Conference on Image Processing (ICIP)* | [PDF](https://ieeexplore.ieee.org/abstract/document/8803026)  
 2020 | Orthogonal convolutional neural networks for automatic sleep stage classification based on single-channel EEG <br/> *Computer Methods and Programs in Biomedicine* | [PDF](https://www.sciencedirect.com/science/article/pii/S0169260719311617)  
 2020 | TRIER: Template-Guided Neural Networks for Robust and Interpretable Sleep Stage Identification from EEG Recordings <br/> *arxiv.org* | [PDF](https://arxiv.org/pdf/2009.05407.pdf)  
+2020 | Computation-Efficient Multi-Model Deep Neural Network for Sleep Stage Classification <br/> *PROCEEDINGS OF THE 2020 ASIA SERVICE SCIENCES AND SOFTWARE ENGINEERING CONFERENCE* | [PDF](https://dl.acm.org/doi/abs/10.1145/3399871.3399887)  
 
 ## CNN with LSTM
 year | Name | PDF
