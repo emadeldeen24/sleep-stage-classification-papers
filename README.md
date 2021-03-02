@@ -104,3 +104,8 @@ year | Name | PDF
 2018 | Learning Sleep Stages from Radio Signals: A Conditional Adversarial Architecture <br/> *International Conference on Machine Learning (ICML)*| [PDF](http://sleep.csail.mit.edu/files/rfsleep-paper.pdf)    
 2020 | Attentive Adversarial Network for Large-Scale Sleep Staging <br/> *Machine Learning for Healthcare (MLHC)*| [PDF](http://proceedings.mlr.press/v126/nasiri20a/nasiri20a.pdf) 
 
+
+## Data Augmentations
+year | Name | PDF
+------------ | ------------- | ------------ 
+2020 | EEG data augmentation: towards class imbalance problem in sleep staging tasks <br/> *IOP science*| [PDF](https://iopscience.iop.org/article/10.1088/1741-2552/abb5be/meta) 
