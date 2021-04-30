@@ -15,7 +15,8 @@ year | Name | PDF | github
 2019 | SeqSleepNet: End-to-End Hierarchical Recurrent Neural Network for Sequence-to-Sequence Automatic Sleep Staging <br/> *IEEE Transactions on Neural Systems and Rehabilitation Engineering* | [PDF](https://arxiv.org/pdf/1809.10932.pdf) | [github](https://github.com/pquochuy/SeqSleepNet) 
 2019 | U-Time: A Fully Convolutional Network for Time Series Segmentation Applied to Sleep Staging <br/>  *Advances in Neural Information Processing Systems (NeurIPS)* | [PDF](https://arxiv.org/pdf/1910.11162.pdf) | [github](https://github.com/perslev/U-Time)
 2019 | Towards More Accurate Automatic Sleep Staging via Deep Transfer Learning <br/> *IEEE Transactions on Biomedical Engineering* | [PDF](https://arxiv.org/pdf/1907.13177.pdf) | [github](https://github.com/pquochuy/sleep_transfer_learning)   
-2020 | GraphSleepNet: Adaptive Spatial-Temporal Graph Convolutional Networks for Sleep Stage Classification <br/> *IJCAI* | [PDF](https://www.ijcai.org/Proceedings/2020/0184.pdf) | [github](https://github.com/ziyujia/GraphSleepNet)
+2020 | GraphSleepNet: Adaptive Spatial-Temporal Graph Convolutional Networks for Sleep Stage Classification <br/> *IJCAI* | [PDF](https://www.ijcai.org/Proceedings/2020/0184.pdf) | [github](https://github.com/ziyujia/GraphSleepNet)   
+2021 | An Attention-based Deep Learning Approach for Sleep Stage Classification with Single-Channel EEG <br/> *IEEE Transactions on Neural Systems and Rehabilitation Engineering* | [PDF](https://ieeexplore.ieee.org/document/9417097) | [github](https://github.com/emadeldeen24/AttnSleep)
 
 ## Review papers
 year | Name | PDF
@@ -67,6 +68,7 @@ year | Name | PDF
 ------------ | ------------- | ------------ 
 2018 | Multivariate Sleep Stage Classification using Hybrid Self-Attentive Deep Learning Networks <br/> *IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*| [PDF](https://cse.buffalo.edu/~lusu/papers/BIBM2018.pdf)   
 2020 | Convolution- and Attention-Based Neural Network for Automated Sleep Stage Classification <br/> *INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH*| [PDF](https://www.mdpi.com/1660-4601/17/11/4152)  
+2021 | An Attention-based Deep Learning Approach for Sleep Stage Classification with Single-Channel EEG <br/> *IEEE Transactions on Neural Systems and Rehabilitation Engineering* | [PDF](https://ieeexplore.ieee.org/document/9417097)   
 
 
 ## Transfer learning
