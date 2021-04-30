@@ -63,11 +63,12 @@ year | Name | PDF
 
 
 
-## Self-attention
+## Attention-based
 year | Name | PDF
 ------------ | ------------- | ------------ 
 2018 | Multivariate Sleep Stage Classification using Hybrid Self-Attentive Deep Learning Networks <br/> *IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*| [PDF](https://cse.buffalo.edu/~lusu/papers/BIBM2018.pdf)   
 2020 | Convolution- and Attention-Based Neural Network for Automated Sleep Stage Classification <br/> *INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH*| [PDF](https://www.mdpi.com/1660-4601/17/11/4152)  
+2020 | A Residual Based Attention Model for EEG Based Sleep Staging <br/> *IEEE JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS*| [PDF](https://ieeexplore.ieee.org/document/9022981)   
 2021 | An Attention-based Deep Learning Approach for Sleep Stage Classification with Single-Channel EEG <br/> *IEEE Transactions on Neural Systems and Rehabilitation Engineering* | [PDF](https://ieeexplore.ieee.org/document/9417097)   
 
 
