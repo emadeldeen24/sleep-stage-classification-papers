@@ -16,6 +16,7 @@ year | Name | PDF | github
 2019 | U-Time: A Fully Convolutional Network for Time Series Segmentation Applied to Sleep Staging <br/>  *Advances in Neural Information Processing Systems (NeurIPS)* | [PDF](https://arxiv.org/pdf/1910.11162.pdf) | [github](https://github.com/perslev/U-Time)
 2019 | Towards More Accurate Automatic Sleep Staging via Deep Transfer Learning <br/> *IEEE Transactions on Biomedical Engineering* | [PDF](https://arxiv.org/pdf/1907.13177.pdf) | [github](https://github.com/pquochuy/sleep_transfer_learning)   
 2020 | GraphSleepNet: Adaptive Spatial-Temporal Graph Convolutional Networks for Sleep Stage Classification <br/> *IJCAI* | [PDF](https://www.ijcai.org/Proceedings/2020/0184.pdf) | [github](https://github.com/ziyujia/GraphSleepNet)   
+2020 | TinySleepNet: An Efficient Deep Learning Model for Sleep Stage Scoring based on Raw Single-Channel EEG <br/> *International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)* | [PDF](https://ieeexplore.ieee.org/document/9176741) | [github](https://github.com/akaraspt/tinysleepnet)    
 2021 | An Attention-based Deep Learning Approach for Sleep Stage Classification with Single-Channel EEG <br/> *IEEE Transactions on Neural Systems and Rehabilitation Engineering* | [PDF](https://ieeexplore.ieee.org/document/9417097) | [github](https://github.com/emadeldeen24/AttnSleep)
 
 ## Review papers
