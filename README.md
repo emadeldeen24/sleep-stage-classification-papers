@@ -52,6 +52,7 @@ year | Name | PDF
 2020 | Intra- and inter-epoch temporal context network (IITNet) using sub-epoch features for automatic sleep scoring on raw single-channel EEG <br/> *Biomedical Signal Processing and Control*| [PDF](https://www.sciencedirect.com/science/article/pii/S1746809420301932)  
 2020 | TinySleepNet: An Efficient Deep Learning Model for Sleep Stage Scoring based on Raw Single-Channel EEG <br/> *International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)*| [PDF](https://ieeexplore.ieee.org/abstract/document/9176741)  
 2020 | Temporal dependency in automatic sleep scoring via deep learning based architectures: An empirical study <br/> *International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)*| [PDF](https://ieeexplore.ieee.org/abstract/document/9176356) 
+2021 | CCRRSleepNet: A Hybrid Relational Inductive Biases Network for Automatic Sleep Stage Classification on Raw Single-Channel EEG <br/> *Brain Sciences*| [PDF](https://www.mdpi.com/2076-3425/11/4/456)  
 
 
 ## CNN with LSTM with attention
@@ -79,7 +80,7 @@ year | Name | PDF
 2017 | deep convolutional neural networks for interpretable analysis of eeg sleep stage scoring <br/> *International Workshop on Machine Learning for Signal Processing (MLSP)* | [PDF](https://arxiv.org/pdf/1710.00633.pdf)  
 2018 | Multichannel Sleep Stage Classification and Transfer Learning using Convolutional Neural Networks <br/> *IEEE Engineering in Medicine and Biology Society (EMBC)*| [PDF](https://ieeexplore.ieee.org/document/8512214)  
 2020 | MetaSleepLearner: A Pilot Study on Fast Adaptation of Bio-signals-Based Sleep Stage Classifier to New Individual Subject Using Meta-Learning <br/> *arxiv.org*| [PDF](https://arxiv.org/pdf/2004.04157.pdf)  
-
+2021 | RobustSleepNet: Transfer learning for automated sleep staging at scale <br/> *arxiv.org*| [PDF](https://arxiv.org/abs/2101.02452)   
 
 
 ## Personalized sleep staging
