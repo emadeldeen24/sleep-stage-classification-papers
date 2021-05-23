@@ -58,7 +58,7 @@ year | Name | PDF
 year | Name | PDF
 ------------ | ------------- | ------------ 
 2018 | Automatic Sleep Stage Classification Using Single-Channel EEG: Learning Sequential Features with Attention-Based Recurrent Neural Networks <br/> *IEEE Engineering in Medicine and Biology Society (EMBC)* | [PDF](https://ieeexplore.ieee.org/document/8512480)  
-2020 | XSleepNet: Multi-View Sequential Model for Automatic Sleep Staging <br/> *arxiv.org* | [PDF](https://arxiv.org/pdf/2007.05492.pdf)  
+2020 | XSleepNet: Multi-View Sequential Model for Automatic Sleep Staging <br/> *IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE* | [PDF](https://arxiv.org/pdf/2007.05492.pdf)  
 2020 | An Automatic Sleep Staging Model Combining Feature Learning and Sequence Learning <br/> *International Conference on Advanced Computational Intelligence (ICACI)*| [PDF](https://ieeexplore.ieee.org/abstract/document/9177520)  
 
 
