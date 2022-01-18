@@ -10,6 +10,7 @@ emad0002{at}e.ntu.edu.sg
 ## Review papers
 year | Paper | PDF
 ------------ | ------------- | ------------ 
+2021 | Automatic Sleep Staging: Recent Development, Challenges, and Future Directions  <br/> *Arxiv* | [PDF](https://arxiv.org/pdf/2111.08446.pdf)    
 2020 | Automated Detection of Sleep Stages Using Deep Learning Techniques: A Systematic Review of the Last Decade (2010–2020) <br/> *Applied Sciences* | [PDF](https://www.mdpi.com/2076-3417/10/24/8963)   
 2019 | Automated sleep scoring: A review of the latest approaches <br/> *Sleep Medicine Reviews* | [PDF](https://www.sciencedirect.com/science/article/abs/pii/S1087079218301746) 
 2019 | A review of automated sleep stage scoring based on physiological signals for the new millennia <br/> *Computer Methods and Programs in Biomedicine* | [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0169260718313865)   
