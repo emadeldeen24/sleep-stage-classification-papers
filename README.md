@@ -124,6 +124,7 @@ year | Paper | PDF | Code
 ## Graph 
 year | Paper | PDF | Code
 ------------ | ------------- | ------------ | -------------
+2022 | An Attention-Guided Spatiotemporal Graph Convolutional Network for Sleep Stage Classification <br/> *Life* | [PDF](https://www.mdpi.com/2075-1729/12/5/622/htm) | -     
 2021 | Multi-View Spatial-Temporal Graph Convolutional Networks with Domain Generalization for Sleep Stage Classification <br/> *IEEE Transactions on Neural Systems and Rehabilitation Engineering* | [PDF](https://arxiv.org/pdf/2109.01824v1.pdf) | [github](https://github.com/ziyujia/MSTGCN)    
 2020 | A Graph-Temporal fused dual-input Convolutional Neural Network for Detecting Sleep Stages from EEG Signals <br/> *IEEE Transactions on Circuits and Systems II: Express Briefs*| [PDF](https://ieeexplore.ieee.org/abstract/document/9159668) | -     
 2020 | GraphSleepNet: Adaptive Spatial-Temporal Graph Convolutional Networks for Sleep Stage Classification <br/> *IJCAI-20* | [PDF](https://www.ijcai.org/Proceedings/2020/0184.pdf) | [github](https://github.com/ziyujia/GraphSleepNet)    
