@@ -10,6 +10,7 @@ emad0002{at}e.ntu.edu.sg
 ## Review papers
 year | Paper | PDF
 ------------ | ------------- | ------------ 
+2022 | A comprehensive evaluation of contemporary methods used for automatic sleep staging <br/> *Biomedical Signal Processing and Control* | [PDF](https://www.sciencedirect.com/science/article/abs/pii/S174680942200341X).    
 2021 | Automatic Sleep Staging: Recent Development, Challenges, and Future Directions  <br/> *Arxiv* | [PDF](https://arxiv.org/pdf/2111.08446.pdf)    
 2020 | Automated Detection of Sleep Stages Using Deep Learning Techniques: A Systematic Review of the Last Decade (2010–2020) <br/> *Applied Sciences* | [PDF](https://www.mdpi.com/2076-3417/10/24/8963)   
 2019 | Automated sleep scoring: A review of the latest approaches <br/> *Sleep Medicine Reviews* | [PDF](https://www.sciencedirect.com/science/article/abs/pii/S1087079218301746) 
@@ -20,6 +21,7 @@ year | Paper | PDF
 ## CNN only
 year | Paper | PDF | Code
 ------------ | ------------- | ------------ | -------------
+2022 | Enhancing Contextual Encoding With Stage-Confusion and Stage-Transition Estimation for EEG-Based Sleep Staging ([v2](https://arxiv.org/pdf/2203.12590.pdf)) <br/> *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)* | [PDF](https://ieeexplore.ieee.org/abstract/document/9746353) | [github](https://github.com/ku-milab/TransSleep)       
 2021 | SalientSleepNet: Multimodal Salient Wave Detection Network for Sleep Staging <br/> *IJCAI-21* | [PDF](https://www.ijcai.org/proceedings/2021/0360.pdf) | [github](https://github.com/ziyujia/SalientSleepNet)  
 2020 | SleepPrintNet: A Multivariate Multimodal Neural Network based on Physiological Time-series for Automatic Sleep Staging <br/> *IEEE Transactions on Artificial Intelligence* | [PDF](https://ieeexplore.ieee.org/document/9357954) | [github](https://github.com/xiyangcai/SleepPrintNet)    
 2020 | Orthogonal convolutional neural networks for automatic sleep stage classification based on single-channel EEG <br/> *Computer Methods and Programs in Biomedicine* | [PDF](https://www.sciencedirect.com/science/article/pii/S0169260719311617) | -    
@@ -91,7 +93,8 @@ year | Paper | PDF | Code
 ## Domain Adaptation
 year | Paper | PDF | Code
 ------------ | ------------- | ------------ | -------------
-2021 | ADAST: Attentive Cross-domain EEG-based Sleep Staging Framework with Iterative Self-Training <br/> *Arxiv* | [PDF](https://arxiv.org/pdf/2107.04470.pdf) | [github](https://github.com/emadeldeen24/ADAST)    
+2022 | ADAST: Attentive Cross-domain EEG-based Sleep Staging Framework with Iterative Self-Training <br/> *IEEE Transactions on Emerging Topics in Computational Intelligence* | [PDF](https://arxiv.org/pdf/2107.04470.pdf) | [github](https://github.com/emadeldeen24/ADAST)    
+2022 | From unsupervised to semi-supervised adversarial domain adaptation in electroencephalography-based sleep staging <br/> *Journal of Neural Engineering* | [PDF](https://iopscience.iop.org/article/10.1088/1741-2552/ac6ca8/meta) | -     
 2021 | Transferring structured knowledge in unsupervised domain adaptation of a sleep staging network <br/> *IEEE Journal of Biomedical and Health Informatics* | [PDF](https://ieeexplore.ieee.org/abstract/document/9513578) | -    
 2021 | Unsupervised sleep staging system based on domain adaptation <br/> *Biomedical Signal Processing and Control* | [PDF](https://www.sciencedirect.com/science/article/abs/pii/S1746809421005346) | -     
 2020 | Attentive Adversarial Network for Large-Scale Sleep Staging <br/> *Machine Learning for Healthcare (MLHC)*| [PDF](http://proceedings.mlr.press/v126/nasiri20a/nasiri20a.pdf) | -    
